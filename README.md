@@ -2,6 +2,6 @@
 
 #### HTML, CSS (SCSS), JavaScript; everything you need to get started real quick. Gulp watchers and compilers.
 
-`npm install`
+`$ npm install`
 
-`gulp watch`
+`$ gulp watch`
